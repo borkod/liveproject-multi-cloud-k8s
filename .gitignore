@@ -30,4 +30,4 @@ override.tf.json
 # example: *tfplan*
 
 # GEK credentials file.
-liveproject-sa-key.json
+*-sa-key.json
